@@ -1,0 +1,428 @@
+@media screen and (max-width: 900px){
+
+
+/* *********************   Navbar start    *************************** */
+
+
+/* ********  Logo   ******** */
+
+.logo{
+    margin-left:20px;
+    padding:5px 0;  
+}
+
+ .logo-first{
+    display: flex;
+    align-items: center;
+ }
+
+.logo img{
+    width: 100%;
+    /* max-width: 150px; */
+}
+
+ .nav-title h1{
+    margin:0 auto;
+    font-size: 20px;
+}
+
+ .logo .social-icon{
+    /* display: none; */
+ }
+
+
+
+/* ******** Logo End  ********* */
+
+
+header{
+    margin: 0!important;
+    padding: 0!important;
+    position:relative;
+    width:100%;
+}
+
+
+
+/* ***************** cover start  ********************* */
+
+.cover{
+    height: auto; 
+}
+
+.cover .row{
+    height: 100%;
+    padding: 30px;
+}
+
+
+.cover .text-container .h1-large{
+    font-size: 35px;
+    margin-top: 40px;
+}
+
+.cover img{
+   width: 100%;
+   height: 300px;
+}
+
+.btn-learn{
+    padding: 12px 25px!important;
+}
+
+
+
+
+/* ***************   Service start  *************** */
+
+.service{
+    padding: 50px 0;
+    text-align: center;
+ }
+
+ .header-content{
+    padding:20px 0 50px;
+ }
+
+.header-content .title{
+    font-size: 44px;
+    font-weight: 900;
+    text-transform: capitalize;
+    text-align: center;
+    margin: 0;
+    color: #3a4042;
+}
+
+.header-content hr{
+    margin: 5px auto!important;
+    width: 120px;
+    height: 3px;
+    background:#4fc1e9;
+}
+
+.header-content .para{
+    margin:10px auto 0;
+    font-size: 18px;
+    font-weight: 600;
+    max-width: 600px;
+    text-align: center;
+    color:#646363;
+}
+
+
+
+
+/* *********************  Testimonial start   *********************** */
+  
+ .testimonial{
+    padding: 30px 0 80px;
+ }
+
+ .testimonial .header-content{
+    padding:20px 0 0px;
+ }
+
+ .testimonial .block{
+    padding: 10px;
+    height: 320px!important
+ }
+
+.testimonial .block .author-container{
+    height: 50%;
+}
+
+.testimonial .block .author-container .quote{
+    max-width: 50px;
+    height: 60px;
+ }  
+
+ .testimonial .author h5{
+    font-size: 22px;
+}
+
+ .testimonial .block .author-container img{
+    max-width: 100px;
+    height: 100px;
+}
+
+.testimonial .block-info{
+    padding: 10px 0px;
+}
+
+ .testimonial .block-info p{
+    font-size: 14px;
+}
+
+
+ /* *****  Testimonial end  ***** */
+
+
+
+
+  /* ****************  Footer section  *********************** */
+
+    .footer-col h1{
+        text-align: center;
+        color: whitesmoke;
+        font-weight: 800;
+        font-size:30px;
+        margin-bottom: 10px;
+    }
+
+    .footer-col h4{
+        text-align: center;
+        font-size: 28px;
+        margin: 30px 0 20px;
+    }
+
+    .footer-col p{
+        text-align: center;
+    }
+
+
+    .footer-col ul{
+        display: block!important;
+    }
+
+}
+
+
+
+/* *********************************************************************************************** */
+
+
+@media screen and (max-width: 786px){
+
+/* ********  Logo   ******** */
+
+.logo{
+    margin-left:20px;
+    padding:5px 0;  
+}
+
+ .logo-first{
+    display: flex;
+    align-items: center;
+ }
+
+.logo img{
+    width: 80px;
+}
+
+ .nav-title h1{
+    margin:0 auto;
+    font-size: 28px;
+}
+
+ .logo .social-icon{
+    /* display: none; */
+ }
+
+
+
+/* ******** Logo End  ********* */
+
+
+header{
+    margin: 0!important;
+    padding: 0!important;
+    position:relative;
+    width:100%;
+}
+
+
+
+/* ***************** cover start  ********************* */
+
+.cover{
+    height: auto; 
+}
+
+.cover .row{
+    height: 100%;
+    padding: 30px;
+}
+
+
+.cover .text-container .h1-large{
+    font-size: 35px;
+    margin-top: 40px;
+}
+
+.cover img{
+   width: 100%;
+   height: 300px;
+}
+
+.btn-learn{
+    padding: 12px 25px!important;
+}
+
+
+
+
+/* ***************   Service start  *************** */
+
+.service{
+    padding: 50px 0;
+    text-align: center;
+ }
+
+ .header-content{
+    padding:20px 0 50px;
+ }
+
+.header-content .title{
+    font-size: 44px;
+    font-weight: 900;
+    text-transform: capitalize;
+    text-align: center;
+    margin: 0;
+    color: #3a4042;
+}
+
+.header-content hr{
+    margin: 5px auto!important;
+    width: 120px;
+    height: 3px;
+    background:#4fc1e9;
+}
+
+.header-content .para{
+    margin:10px auto 0;
+    font-size: 18px;
+    font-weight: 600;
+    max-width: 600px;
+    text-align: center;
+    color:#646363;
+}
+
+
+
+
+
+
+
+/* *******************  Middle quote start  *********************** */
+
+
+.middle-quote .container h3{
+    font-size: 30px;
+}
+
+.middle-quote .container span{
+    color: #4fc1e9;
+}
+
+.middle-quote .container h4{
+    margin-top: 7px;
+    color: #4fc1e9;
+}
+
+.middle-quote .container p{
+    margin-top: 30px;
+    font-size: 18px;
+    color:#e6f8f6;
+    font-weight: 500;
+    letter-spacing: .6px;
+}
+
+.middle-quote .container .btn-learn{
+    margin-top: 16px;
+    padding:10px 26px!important;
+}
+
+/* ****  Middle quote end  **** */
+
+
+
+
+
+/* ****************  Footer section  *********************** */
+
+
+
+.footer-col h1{
+    text-align: center;
+    color: whitesmoke;
+    font-weight: 800;
+    font-size:30px;
+    margin-bottom: 10px;
+}
+
+.footer-col h4{
+    text-align: center;
+    font-size: 28px;
+    margin: 30px 0 20px;
+}
+
+.footer-col p{
+    text-align: center;
+}
+
+
+.footer-col ul{
+    display: block!important;
+}
+
+}
+
+
+
+/* *********************************************************************************************** */
+
+
+@media screen and (max-width: 500px){
+
+/* ********  Logo   ******** */
+
+
+ .nav-title h1{
+    margin:0 auto;
+    font-size: 30px;
+}
+
+ .logo .social-icon{
+    display: none;
+ }
+
+
+ .footer .copyright-container{
+    margin-top: 10px;
+}
+
+
+ .fa-stack{
+    font-size: 14px;
+}
+
+
+/* ***********  Contact page  ************* */
+
+.contact-page .content{
+    padding: 30px 0 0 20px;
+}
+
+
+
+
+/* *********************************************************************************** */
+
+
+@media screen and (max-width: 320px){
+
+/* ********  Logo   ******** */
+
+
+ .nav-title h1{
+    font-size: 24px;
+}
+
+
+/* ***********  Contact page  ************* */
+
+.contact-page .content{
+    padding: 30px 0 0 10px;
+}
+
+}
